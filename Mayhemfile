@@ -1,4 +1,4 @@
-project: jacob-clemente/bin2c
+project: bin2c
 target: bin2c
 
 cmds:
